@@ -1,0 +1,89 @@
+Sr. DevSecops Engineer
+
+State, Country
+
+SUMMARY
+
+· A skilled professional with around 9 years of IT experience, 6+ years as a DevSecOps Engineer.
+
+· Strong skills in integrating security tools in CI/CD build pipelines including Project Setup, Build and Release process setup, Build Automation, Continuous Integration, AWS, and DevOps. Seasoned interpersonal skills, strong work ethics, and ability to stay organized within fast - paced organizations.
+
+TECHNICAL SKILLS
+
+IT Delivery Methods: Agile, Scaled Agile, Waterfall
+
+Security Automation Tools: Veracode, Snyk, Checkmarx, Fortify, GitSecrets
+
+Scripting Languages: Shell, Perl, Python, Ruby, Groovy, JavaScript
+
+Version Control Tools: Git
+
+Application Servers: Tomcat
+
+Continuous Integration Tools: Jenkins, GitHub Actions, AWS CodePipeline
+
+Continuous Deployment Tools: Chef, Ansible
+
+Containers: Kubernetes, Docker
+
+Cloud Computing Services: Amazon Web Services (AWS), AZURE
+
+Databases: MySQL, Oracle
+
+Project Management Tools: JIRA, MS Project, Confluence
+
+Operating System: Linux, MacOS, Microsoft Windows
+
+API Tools: Postman
+
+PROFESSIONAL EXPERIENCE
+
+Confidential, State, Country
+
+Sr. DevSecOps Engineer
+
+Responsibilities:
+
+· Responsible for application Build & Release process which includes Code Compilation, Packaging, Security Scanning and code quality scanning, Deployment Methodology and Application Configurations.
+
+· Integrated security tools like Fortify, Veracode, Snyk, SonarQube, Checkmarx in Jenkins Ci/CD build pipeline
+
+· Performed SAST, DAST, SCA and IAC security testing on applications and performed False positive analysis
+
+· Configured Jenkins jobs and pipelines using Azure DevOps, Git, Gradle, Maven, MS - Build, Jenkins, SonarQube, JFROG Artifactory, which includes build and deployment of Java applications to Apache Server, .Net applications to IIS Server.
+
+· Defining Release Process & Policy for projects early in SDLC and responsible for source code build, analysis and deploy configuration.
+
+· Extensively worked on GitHub Actions for continuous integration and for End-to-End automation for all build and deployments.
+
+· Created pipelines from the scratch and wrote Jenkins file using Groovy scripts.
+
+· Wrote cloud formation templates (CFT s) to automate the services that are used for the application deployment.
+
+· Wrote chef Cookbooks and recipes to automate build/deployment process and do an overall process improvement to any manual process using recipes with ruby scripts.
+
+· Worked closely with software developers and DevOps to debug software and system problems.
+
+· Used Zapi plugin in Jenkins to float results back to JIRA and notify the team.
+
+Confidential, State, Country
+
+Sr. DevSecops Engineer
+
+Responsibilities:
+
+· Worked as an active team member for both product development and the operations teams to provide the best DevOps Practices and supported their applications with feasible approaches.
+
+· Integrated security tools like Fortify, Veracode, Snyk, SonarQube, Checkmarx in Jenkins Ci/CD build pipeline
+
+· Creating Jenkins jobs to create AWS infrastructure from Git repos containing Terraform code. Implementing & Working on Terraform scripts to create Infrastructure on AWS/Azure.
+
+· Experience in Amazon Cloud Services (AWS) creating features like EC2, IAM, VPC, EBS, AMI, APIs, Route 53, snapshots, Autoscaling, Cloud watch, CloudTrail, CloudFront, SQS, SNS, RDS, Cloud Watch, S3, API Gateways, Autoscaling, ALB, NLB, Lambda, Security groups using Terraform.
+
+· Create and manage S3 buckets, enable logging in S3 bucket to track the request, who is accessing the data and enable versioning in S3 bucket and restore the deleted file by creating IAM roles.
+
+· Create & Utilize Cloud Watch to monitor resources such as EC2, CPU memory, Amazon RDS DB services, Dynamo tables, EBS volumes, Lambda Functions. Encrypting the EBS volumes to make sure the data in rest is secured and protected
+
+· Implemented a server less architecture using Lambda and deployed AWS Lambda code from Amazon S3 buckets. Created a Lambda Deployment function and configured it to receive events from your S3 bucket using cloud watch events.
+
+· Coordinate/assist developers with establishing and applying appropriate branching, labeling/naming conventions using GIT source control and analyze and resolve conflicts related to merging of source code for GIT.
